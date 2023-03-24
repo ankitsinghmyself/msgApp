@@ -1,6 +1,9 @@
 # SMS Grop Chat
 
-This is a sample React Native project called [Project Name]. The project includes [list the key features or functionalities of the project].
+This is a sample React Native project called SMS Group App. The project includes [
+Chat in group,
+able to create a group and join other groups
+].
 
 ## Installation
 
