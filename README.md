@@ -11,16 +11,29 @@ To run this project on your local machine, follow these steps:
 
 1. Clone the repository:
 
+        `git clone https://github.com/ankitsinghmyself/msgApp.git`
+        
 2. Install the dependencies:
 
-
+    `npm install`
+    
 3. Run the app on iOS:
 
+    `cd /ios`
+    
+    `pod install`
+    
+    `cd..`
+    
+    `npx react-native run-ios`
 
 Or run the app on Android:
 
+    `npx react-native run-ios` 
 
 This will start the Metro bundler and launch the app in the iOS Simulator or an Android emulator or device.
+
+[Note - Plese open emulator before launching app ]
 
 ## Project Structure
 
