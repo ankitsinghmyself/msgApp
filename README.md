@@ -5,6 +5,9 @@ Chat in group,
 able to create a group and join other groups
 ].
 
+## Demo Vedio
+https://www.awesomescreenshot.com/video/15898851?key=49f333fb54a9ca321722b9ae38b16a8d
+
 ## Installation
 
 To run this project on your local machine, follow these steps:
